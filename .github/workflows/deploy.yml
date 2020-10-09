@@ -37,6 +37,3 @@ jobs:
         run: npm install -g surge
       -  name: deploying using surge
          run: surge ./build http://waseem-react-material-ui.surge.sh/ --token ${{ secrets.SURGE_TOKEN }}
-
-
-      
