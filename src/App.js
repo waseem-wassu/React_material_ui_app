@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
     margin: '0 auto',
     marginTop:'130px',
     textAlign: 'center',
-    padding: 15
+    padding: 16
   },
   Input : {
     width:"95%",

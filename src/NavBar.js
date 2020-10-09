@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
           <Typography variant="h6" className={classes.title}>
             Expense Calculator
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">LOGIN</Button>
         </Toolbar>
       </AppBar>
     </div>
