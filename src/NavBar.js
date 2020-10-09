@@ -30,7 +30,7 @@ const useStyles = makeStyles((theme) => ({
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            Expense Calculator By Waseem
+            My Expense Builder
           </Typography>
           <Button color="inherit">LOGIN</Button>
         </Toolbar>
